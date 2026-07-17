@@ -43,3 +43,23 @@ The schematic work is licensed under the Creative Commons Attribution-ShareAlike
 International License:
 
 https://creativecommons.org/licenses/by-sa/4.0/
+
+-------------------------------------------------------------------------------
+
+GNU Unifont 17.0.05 Unicode bitmap glyphs
+Copyright (C) GNU Unifont contributors
+https://unifoundry.com/unifont/
+
+The localized renderer embeds an unaltered subset of glyph bitmaps from GNU
+Unifont. The font is licensed under GNU GPL version 2 or later with the GNU
+font embedding exception. The full GPLv2 text is distributed alongside this
+file as UNIFONT_COPYING.txt. The embedding exception reads:
+
+As a special exception, if you create a document which uses this font, and
+embed this font or unaltered portions of this font into the document, this
+font does not by itself cause the resulting document to be covered by the GNU
+General Public License. This exception does not however invalidate any other
+reasons why the document might be covered by the GNU General Public License.
+If you modify this font, you may extend this exception to your version of the
+font, but you are not obligated to do so. If you do not wish to do so, delete
+this exception statement from your version.
